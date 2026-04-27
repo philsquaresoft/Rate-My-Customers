@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <rect width="64" height="64" fill="#0b1220"></rect>
+    
+    <!-- Outer frame -->
+    <rect x="10" y="10" width="44" height="44" rx="6" fill="none" stroke="#3b82f6" stroke-width="3"></rect>
+    
+    <!-- Inner symbol (abstract “R” / report mark) -->
+    <path d="M22 44V20h14c6 0 10 3 10 8 0 4-3 7-7 8l8 8h-8l-7-7h-4v7h-6zm6-13h8c3 0 5-1 5-4s-2-4-5-4h-8v8z" fill="#e8eef7"></path>
+</svg>
